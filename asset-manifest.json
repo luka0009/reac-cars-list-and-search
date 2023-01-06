@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-cars-list-and-search/static/css/main.89a5d7b2.css",
+    "main.js": "/react-cars-list-and-search/static/js/main.734c52f7.js",
+    "index.html": "/react-cars-list-and-search/index.html",
+    "main.89a5d7b2.css.map": "/react-cars-list-and-search/static/css/main.89a5d7b2.css.map",
+    "main.734c52f7.js.map": "/react-cars-list-and-search/static/js/main.734c52f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89a5d7b2.css",
+    "static/js/main.734c52f7.js"
+  ]
+}
